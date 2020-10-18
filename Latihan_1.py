@@ -1,3 +1,6 @@
+#----------------------------- ARIQ SENANG ARIQ BAHAGIA HEHEHEHEH ----------------------#
+#----------------------------- WELCOME INDIR, SCOTT, BEL--------------------------------#
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
